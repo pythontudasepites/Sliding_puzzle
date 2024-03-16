@@ -5,3 +5,4 @@ Az egykor népszerű, magyarul Tili-Toli vagy 15-ös játékként ismert, egysze
 A programmal nem csak az alapértelmezett 4x4-es táblán lehet játszani, hanem eltérő sor- és oszlopszámmal is, amely értékeket a játékot reprezentáló osztály példányosításakor kell megadni.
 
 
+![Toli-Toli]()
