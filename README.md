@@ -6,6 +6,5 @@ A programmal nem csak az alapértelmezett 4x4-es táblán lehet játszani, hanem
 
 
 ### Képernyőképek
-<img src="https://github.com/pythontudasepites/Sliding_puzzle/blob/main/sliding_puzlle_screenshot_github.jpg" width="464" height="396">
+<img src="https://github.com/pythontudasepites/Sliding_puzzle/blob/main/sliding_puzlle_screenshot_github.jpg" width="542" height="462">
 
-![Toli-Toli](sliding_puzlle_screenshot_github.jpg)
