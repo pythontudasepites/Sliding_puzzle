@@ -6,4 +6,4 @@ A programmal nem csak az alapértelmezett 4x4-es táblán lehet játszani, hanem
 
 
 ### Képernyőképek
-![Toli-Toli](sliding_puzlle_screenshot_github.jpg)
+![Toli-Toli](sliding_puzlle_screenshot_github.jpg = 464x396)
